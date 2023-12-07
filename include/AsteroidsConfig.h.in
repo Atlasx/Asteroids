@@ -1,0 +1,7 @@
+#ifndef ASTEROIDSCONFIG_H
+#define ASTEROIDSCONFIG_H
+
+#define Asteroids_VERSION_MAJOR @Asteroids_VERSION_MAJOR@
+#define Asteroids_VERSION_MINOR @Asteroids_VERSION_MINOR@
+
+#endif
